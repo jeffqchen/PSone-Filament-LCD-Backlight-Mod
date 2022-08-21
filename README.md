@@ -81,7 +81,9 @@ Solder a wire to test point DC_CON on the motherboard, and solder the other end 
 ----------
 ## Modding Backlight Assembly
 
-Solder TWO flexible filament LEDs in series with a 60mm-long wire. The polarity of the LED strips is important and requires attention.
+Solder TWO flexible filament LEDs in series with a 60mm-long wire connecting them in the middle.
+
+The polarity of the LED strips is important and requires attention.
 
 <img src="./Pics/led.jpg" width=600>
 
