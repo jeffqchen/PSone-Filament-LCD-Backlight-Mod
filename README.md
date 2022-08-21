@@ -118,3 +118,21 @@ The evenness of the new backlight should be great - exactly like the original CC
 The color temperature of these filament LEDs is different from the original, as compared below. Personally I think the original CCFL was too blue and the LEDs look more natural.
 
 <img src="./Pics/comparison.jpg" width=600>
+
+----------
+## Special Thanks
+
+[Zaxour](https://twitter.com/zaxour)
+- For his original circuit design for the PSone LED mod - [Link](https://github.com/zaxour/PsOne_LEDBoard)
+
+----------
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
