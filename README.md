@@ -47,6 +47,8 @@ Make sure the right-angled pin headers are on the invisible side of the PCB.
 
 Only two pins are necessary on each side of the PCB.
 
+Note you need 3 pins in a row but have to skip the middle one. You might want to cut off the middle one before hand.
+
 Cut and remove the black spacer after the pins are soldered in place.
 
 <img src="./Pics/soldering_01.jpg" width=500>
@@ -65,7 +67,7 @@ Remove component C114, C116, C117, T1. Cut the thick trace next to CN3 marked wi
 ----------
 ## Installing Mod PCB
 
-Solder the pin headers to the inside of the mother board as shown in the photo. Note you need 3 pins in a row but have to skip the middle one. You might want to cut off the middle one before hand.
+Solder the pin headers to the inside of the mother board as shown in the photo.
 
 Solder two jumper wires as shown in the photo.
 
