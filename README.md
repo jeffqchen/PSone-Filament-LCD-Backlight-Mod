@@ -12,7 +12,7 @@ So here is my solution, just in case you are facing the dilemma (however, by all
 
 <img src="./Pics/project_cover.jpg" width=500>
 
-This design takes the 7.5V from the power input, runs it through an NPN amplifier, to feed two 3.3V flexible filament LED strips and some current-limiting resistors, controlled by the 5V_CON signal from the console.
+This design takes the 7.5V from the power input, runs it through an NPN amplifier, to feed power through two 3V flexible filament LED strips and some current-limiting resistors, controlled by the 5V_CON signal from the console.
 
 <img src="./Pics/schematic.jpg" width=600>
 
