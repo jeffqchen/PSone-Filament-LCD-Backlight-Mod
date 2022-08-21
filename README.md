@@ -93,11 +93,19 @@ Disassemble the screen, and open up the backlight box assembly.
 
 **VERY CAREFULLY** remove the CCFL tube.
 
+
+-----------
+### To reuse the original CCFL plug
+
 Desolder the plug from the tube. Store the CCFL in a rigid environment so it doesn't have the chance to break.
 
 <img src="./Pics/backlight_02.jpg" width=600>
 
 Solder the red wire to the positive end of the LED filament in series, and the white wire to the negative end of the other LED.
+
+*If you decided not to use the original CCFL plug, solder the positive end to the upper pin on the mod board and the negative end to the lower one.*
+
+-----------
 
 Fit the new LED assembly back into the backlight box like the original, then reassemble the entire LCD screen assembly.
 
