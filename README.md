@@ -4,7 +4,7 @@ The official PSone LCD screen has a fragile backlight system. The inverter and t
 
 <img src="./Pics/faulty_backlight.jpg" width=500>
 
-Previously, there were multiple attempts of similar mods. But they all used singular LEDs, and resulted in uneven backlight that's difficult to look at. This new type of flexible filament LED provides the evenness as good as the CCFL tube, and is very easy to manipulate. More importantly, they are very affordable.
+Previously, there were multiple attempts of similar mods. But they all used singular LEDs, and resulted in uneven backlight that's difficult to look at. This new type of flexible filament LED provides the uniformity as good as the CCFL tube, and is very easy to manipulate. More importantly, they are very affordable.
 
 <img src="./Pics/filament_led.jpg" width=500>
 
@@ -97,7 +97,9 @@ Disassemble the screen, and open up the backlight box assembly.
 -----------
 ### To Reuse The Original CCFL Plug
 
-Desolder the plug from the tube. Store the CCFL in a rigid environment so it doesn't have the chance to break.
+Desolder the plug from the tube.
+
+*Store the CCFL in a rigid environment so it doesn't have the chance to break.*
 
 <img src="./Pics/backlight_02.jpg" width=600>
 
@@ -114,7 +116,9 @@ Fit the new LED assembly back into the backlight box like the original, then rea
 ----------
 ## Reassembly
 
-Reseat the screen into the shell, reseat the motherboard onto the back of the screen assembly, then plug in the screen ribbon cable and lock the tab. Plug back in the screen backlight header.
+Reseat the screen into the shell.
+
+Reseat the motherboard onto the back of the screen assembly, then plug in the screen ribbon cable and lock the tab. Plug back in the screen backlight header.
 
 To safely test the machine, secure the motherboard with at least two screws so the screen doesn't fall apart and cause damage.
 
@@ -123,7 +127,7 @@ To safely test the machine, secure the motherboard with at least two screws so t
 
 The backlight should now work. The backlight will not turn on until the PSone is powered on, exactly like how the screen is supposed to work.
 
-The evenness of the new backlight should be great - exactly like the original CCFL.
+The uniformity of the new backlight should be great - exactly like the original CCFL.
 
 <img src="./Pics/result.jpg" width=600>
 
