@@ -60,23 +60,23 @@ Trim the legs somewhat so they don't reach too far into the main PCB when instal
 ----------
 ## PSone Screen Motherboard Modding
 
-Remove component C114, C116, C117, T1. Cut the thick trace next to CN3 marked with a cross.
+- Remove component C114, C116, C117, T1
+- Cut the thick trace next to CN3 marked with a cross.
 
 <img src="./Pics/remove_component.jpg" width=600>
 
 ----------
 ## Installing Mod PCB
 
-Solder the pin headers to the inside of the mother board as shown in the photo.
+Solder the pin headers to the inside of the motherboard as shown in the photo.
 
 Solder two jumper wires as shown in the photo.
 
 <img src="./Pics/installed_inside.jpg" width=600>
 
-Solder a wire to the DC_CON test point on the motherboard, and solder the other end to the DC_CON on the mod board, as indicated in the photo.
+Solder a wire to test point DC_CON on the motherboard, and solder the other end to the DC_CON on the mod board, as indicated in the photo.
 
 <img src="./Pics/installed_outside.jpg" width=600>
-
 
 ----------
 ## Modding Backlight Assembly
@@ -124,7 +124,7 @@ The color temperature of these filament LEDs is different from the original, as 
 ----------
 ## Special Thanks
 
-[Zaxour](https://twitter.com/zaxour)
+### [Zaxour](https://twitter.com/zaxour)
 - For his original circuit design for the PSone LED mod - [Link](https://github.com/zaxour/PsOne_LEDBoard)
 
 ----------
