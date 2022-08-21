@@ -103,7 +103,7 @@ Desolder the plug from the tube. Store the CCFL in a rigid environment so it doe
 
 Solder the red wire to the positive end of the LED filament in series, and the white wire to the negative end of the other LED.
 
-*If you decided not to use the original CCFL plug, solder the positive end to the upper pin on the mod board with a wire, and the negative end to the lower one with another.*
+*If you decided not to use the original CCFL plug, solder the positive end to the upper pin on the mod board with a piece of wire, and the negative end to the lower one with another.*
 
 -----------
 
