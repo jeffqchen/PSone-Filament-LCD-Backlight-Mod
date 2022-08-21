@@ -95,7 +95,7 @@ Disassemble the screen, and open up the backlight box assembly.
 
 
 -----------
-### To reuse the original CCFL plug
+### To Reuse The Original CCFL Plug
 
 Desolder the plug from the tube. Store the CCFL in a rigid environment so it doesn't have the chance to break.
 
