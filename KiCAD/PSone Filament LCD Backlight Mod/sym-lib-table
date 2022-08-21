@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PSone Filament LCD Backlight Mod")(type "KiCad")(uri "${KIPRJMOD}/PSone Filament LCD Backlight Mod.kicad_sym")(options "")(descr ""))
+)
