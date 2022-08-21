@@ -97,7 +97,7 @@ Desolder the plug from the tube. Store the CCFL in a rigid environment so it doe
 
 <img src="./Pics/backlight_02.jpg" width=600>
 
-Solder the red wire to the positive end of the LED filament in series, and the white end to the negative end on the other.
+Solder the red wire to the positive end of the LED filament in series, and the white wire to the negative end of the other LED.
 
 Fit the new LED assembly back into the backlight box like the original, then reassemble the entire LCD screen assembly.
 
