@@ -23,11 +23,11 @@ Please note these values were fine tuned and do not match the perfect calculatio
 
 - [PCB](https://oshpark.com/shared_projects/M3fZRLg5)
 
-- BSR14 NPN Amplifier
+- BSR14 NPN Amplifier / SOT23-3 [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/BSR14%20NPN%20Amplifier/info.md)
 
-- [2x] flexible filament LED strips, 130mm, 3V, cold white 6500K
+- [2x] Flexible Filament LED Strips, 130mm, DC 3V, Cold White 6500K - [Linke](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Flexible%20Filament%20LED/info.md)
 
-- Right-angle pin header
+- 2.54mm-Pitched Pin Header, Right Angle  - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Right-Angle/info.md)
 
 **All resistors are 1/4W through hole resistors.**
 
@@ -56,9 +56,7 @@ Trim the legs somewhat so they don't reach too far into the main PCB when instal
 <img src="./Pics/trim_pins.jpg" width=500>
 
 ----------
-## PCone Screen Motherboard Modding
-
-<img src="./Pics/.jpg" width=600>
+## PSone Screen Motherboard Modding
 
 Remove component C114, C116, C117, T1. Cut the thick trace next to CN3 marked with a cross.
 
