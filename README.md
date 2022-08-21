@@ -23,7 +23,7 @@ Please note these values were fine tuned and do not match the perfect calculatio
 
 - [PCB](https://oshpark.com/shared_projects/M3fZRLg5)
 
-- BSR14 NPN Amplifier / SOT23-3 [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/BSR14%20NPN%20Amplifier/info.md)
+- BSR14 NPN Amplifier / SOT23-3 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/BSR14%20NPN%20Amplifier/info.md)
 
 - [2x] Flexible Filament LED Strips, 130mm, DC 3V, Cold White 6500K - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Flexible%20Filament%20LED/info.md)
 
@@ -43,11 +43,11 @@ Nothing is special about populating the parts.
 
 Make sure the right-angled pin headers are on the invisible side of the PCB.
 
-<img src="./Pics/pcb_populated_front.jpg" width=300> <img src="./Pics/pcb_populated_back.jpg" width=300>
-
 Only two pins are necessary on each side of the PCB.
 
 Note you need 3 pins in a row but have to skip the middle one. You might want to cut off the middle one before hand.
+
+<img src="./Pics/pcb_populated_front.jpg" width=300> <img src="./Pics/pcb_populated_back.jpg" width=300>
 
 Cut and remove the black spacer after the pins are soldered in place.
 
