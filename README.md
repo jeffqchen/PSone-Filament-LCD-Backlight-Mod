@@ -25,7 +25,7 @@ Please note these values were fine tuned and do not match the perfect calculatio
 
 - BSR14 NPN Amplifier / SOT23-3 [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/BSR14%20NPN%20Amplifier/info.md)
 
-- [2x] Flexible Filament LED Strips, 130mm, DC 3V, Cold White 6500K - [Linke](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Flexible%20Filament%20LED/info.md)
+- [2x] Flexible Filament LED Strips, 130mm, DC 3V, Cold White 6500K - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Flexible%20Filament%20LED/info.md)
 
 - 2.54mm-Pitched Pin Header, Right Angle  - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Right-Angle/info.md)
 
